@@ -18,6 +18,7 @@
 		<module>dijkstra</module>
 		<module>java-ee</module>
     <module>struts2</module>
+    <module>quartz</module>
   </modules>
 
 
