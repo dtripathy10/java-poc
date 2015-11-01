@@ -7,4 +7,4 @@ sample created while learning new technology or concept
 + population sysnthesizer
 + parser
 + design pattern
-+ java EE : servlet, filter, listner, jsp, jstl, rest
++ java EE : servlet, filter, listner, jsp, jstl, jsf, rest
