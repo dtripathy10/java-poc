@@ -17,6 +17,7 @@
 		<module>pattern</module>
 		<module>population-synthesizer</module>
 		<module>dijkstra</module>
+		<module>java-ee</module>
 	</modules>
 
 
