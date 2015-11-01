@@ -13,7 +13,7 @@ import javax.servlet.annotation.WebFilter;
 /**
  * Servlet Filter implementation class SampleFilter
  */
-@WebFilter("/*")
+@WebFilter("/ok/*")
 public class SampleFilter implements Filter {
 
     /**
