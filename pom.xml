@@ -19,6 +19,7 @@
 		<module>java-ee-frontend</module>
     <module>struts2</module>
     <module>quartz</module>
+    <module>spring</module>
   </modules>
 
 
