@@ -16,7 +16,7 @@
 		<module>pattern</module>
 		<module>population-synthesizer</module>
 		<module>dijkstra</module>
-		<module>java-ee</module>
+		<module>java-ee-frontend</module>
     <module>struts2</module>
     <module>quartz</module>
   </modules>
